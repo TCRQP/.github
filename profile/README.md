@@ -22,5 +22,3 @@ If you are interested in our research, feel free to reach out!
 📧 Contact: vivian.franca@unesp.br
 
 🌐 Website: [TCRQP](https://www.iq.unesp.br/#!/departamentos/fisico-quimica/docentes/vivian-v-franca/)
-
-🐙 GitHub: [TCRQP](https://github.com/aiamkkk/TCRQP)
