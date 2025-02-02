@@ -1,5 +1,8 @@
 # Theoretical and Computational Research on Quantum Physics
 
+📍Institute of Chemistry, UNESP, Araraquara, Brazil.
+
+
 Welcome to our research group! We focus on theoretical and computational approaches to quantum physics, exploring a wide range of topics, including:
 
 - Quantum Mechanics and Quantum Information Theory
