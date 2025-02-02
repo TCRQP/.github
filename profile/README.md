@@ -6,7 +6,6 @@
 Welcome to our research group! We focus on theoretical and computational approaches to quantum physics, exploring a wide range of topics, including:
 
 - Quantum Mechanics and Quantum Information Theory
-- Density Functional Theory (DFT)
 - Density Functionals, Machine Learning Methods, DMRG
 - Nanostructures, Nanomaterials, and Ultracold Atoms
 - Entanglement, Quantum Phase Transitions, and Superconductivity
