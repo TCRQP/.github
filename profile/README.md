@@ -13,7 +13,7 @@ Welcome to our research group! We focus on theoretical and computational approac
 
 Our work involves cutting-edge numerical simulations and analytical methods to understand quantum systems at different scales, from fundamental theoretical models to applications in materials science and quantum technologies.
 
-![group](https://github.com/user-attachments/assets/cfbc66b6-3912-4bba-9e57-939c973f824e)
+![group](https://github.com/user-attachments/assets/a6287995-01b7-4818-b79d-1fac5627c668)
 
 ## Get in Touch
 
